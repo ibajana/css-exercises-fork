@@ -1,0 +1,19 @@
+.parrafo{
+    background-color: lightpink;
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+#dos{
+    color: blue;
+    font-size: 36px;
+}
+
+.parrafo.cool{
+    font-size: 24px;
+}
+
+#cuatro{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
